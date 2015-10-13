@@ -38,7 +38,7 @@
 
 - title: Archive
   url: "/archive/"
-  side: left
+  side: right
   
 - title: "Search"
   url: "/search/"
