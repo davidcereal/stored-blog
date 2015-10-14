@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "So You Want a Seat on the Subway.."
+  title: "When and Where to Swipe if You Want a Seat on the Subway"
   url: 'http://dberger1989.github.io/_posts/design/2015-10-10-MTA.md'
   image: unsplash_9-302x182.jpg
   text: 'Using MTA data, we can determine which days, times, and stations see the most traffic.'
