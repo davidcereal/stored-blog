@@ -10,8 +10,8 @@ header:
 widget1:
   title: "When and Where to Swipe if You Want a Seat on the Subway"
   url: 'http://dberger1989.github.io/_posts/design/2015-10-10-MTA.md'
-  image: unsplash_9-302x182.jpg
-  text: 'Using MTA data, we can determine which days, times, and stations see the most traffic.'
+  image: subway_seat_302x182.jpg
+  text: 'Get yourself one of these babies (pictured above). Breaking down which stations and which times see the most traffic in the MTA Subway system.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
