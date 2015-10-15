@@ -3059,7 +3059,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         , padding: 0
         , border: 'none'
         , width: 'auto'
-        , height: 'auto'
+        , height: '200px'
         , maxHeight: 'none'
         , maxWidth: 'none'
         , zIndex: -999999
