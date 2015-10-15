@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: leaf_head3.jpg
+  image_fullwidth: logo2.svg
 widget1:
   title: "When and Where to Swipe if You Want a Seat on the NYC Subway"
   url: 'http://dberger1989.github.io/_posts/design/2015-10-10-MTA.md'
