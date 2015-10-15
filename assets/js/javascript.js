@@ -3060,7 +3060,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         , border: 'none'
         , width: 'auto'
         , height: 'auto'
-        , maxHeight: '200px'
+        , maxHeight: '80px'
         , maxWidth: 'none'
         , zIndex: -999999
       }
