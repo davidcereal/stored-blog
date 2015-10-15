@@ -3059,8 +3059,8 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         , padding: 0
         , border: 'none'
         , width: 'auto'
-        , height: '200px'
-        , maxHeight: 'none'
+        , height: 'auto'
+        , maxHeight: '200px'
         , maxWidth: 'none'
         , zIndex: -999999
       }
