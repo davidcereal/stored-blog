@@ -11,7 +11,7 @@ widget1:
   image: subway_seat_302x182.jpg
   text: 'Get yourself one of these babies (pictured above). Breaking down which stations and which times see the most traffic in the MTA Subway system.'
 widget2:
-  title: "Mapping the Life of Movie Trends?"
+  title: "Mapping the Life of Movie Trends"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: dystopian_thumb.jpg
   text: 'From super heroes to post-apocolytic societies--how do we react to movie trends?'
