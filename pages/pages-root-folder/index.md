@@ -13,7 +13,7 @@ widget1:
 widget2:
   title: "Mapping the Life of Movie Trends"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: dystopian_thumb.jpg
+  image: dystopian_thumb1.jpg
   text: 'From super heroes to post-apocolytic societies: How do we react to movie trends?'
 widget3:
   title: "Download Theme"
