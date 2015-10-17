@@ -9,12 +9,12 @@ widget1:
   title: "How to Beat the Crowds in the NYC Subway"
   url: 'http://dberger1989.github.io/_posts/design/2015-10-10-MTA.md'
   image: subway_seat_302x182.jpg
-  text: 'Get yourself one of these babies (pictured above). Breaking down which stations and which times see the most traffic in the MTA Subway system.'
+  text: 'Get yourself one of these babies <em>(pictured above)</em>. Breaking down which stations and which times see the most traffic in the MTA Subway system.'
 widget2:
   title: "Mapping the Life of Movie Trends"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: dystopian_thumb2.jpg
-  text: 'From super heroes to post-apocolytic societies: How do we react to movie trends?'
+  text: 'From super heroes to post-apocolytic societies: How do we react when a genre starts trending?'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
