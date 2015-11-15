@@ -16,10 +16,10 @@ widget2:
   image: dystopian_thumb2.jpg
   text: 'From super heroes to post-apocolytic societies: How do we react when a genre starts trending?'
 widget3:
-  title: "Download Theme"
+  title: "Predicting Water Pump Functionality in Tanzania"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: waterpump_603x182.jpg
+  text: 'Experimenting with classification models using data from the 'Pump it up' challenge at <em>drivendata.com</em>. '
 permalink: /index.html
 ---
 
