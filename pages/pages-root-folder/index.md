@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "Predicting Water Pump Functionality in Tanzania"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: waterpump_603x182.jpg
+  image: waterpump_603x384.jpg
   text: "Using machine learning methods on data from the 'Pump it Up' challenge from <em>drivendata.com</em> to predict which pumps need to be repaired."
 permalink: /index.html
 ---
