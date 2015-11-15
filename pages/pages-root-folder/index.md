@@ -19,7 +19,7 @@ widget3:
   title: "Predicting Water Pump Functionality in Tanzania"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: waterpump_603x182.jpg
-  text: 'Experimenting with classification models using data from the 'Pump it up' challenge at <em>drivendata.com</em>. '
+  text: 'grock'
 permalink: /index.html
 ---
 
