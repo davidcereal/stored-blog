@@ -12,7 +12,7 @@ image:
 categories:
     - blog
 ---
-As any unfortunate New York City Metro Transit Authority rider can attest, one’s subway riding experience is directly dependent on how many other unfortunate riders are competing for walking space, standing room, polls, and —the holy grail—a seat.
+kAs any unfortunate New York City Metro Transit Authority rider can attest, one’s subway riding experience is directly dependent on how many other unfortunate riders are competing for walking space, standing room, polls, and —the holy grail—a seat.
 
 Navigating through a crowded subway station can be quite disorienting, with other commuters crossing in front of you in all directions, and it is not uncommon to be shouldered aside for taking a moment to read a sign. And that is to say nothing of the actual ride itself. Suffice to say, a crowded NYC subway ride is nasty, brutish, and if you’re lucky, short. 
 
