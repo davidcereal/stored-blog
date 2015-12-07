@@ -18,12 +18,12 @@ Navigating through a crowded subway station can be quite disorienting, with othe
 
 To my mind one of the surest ways of improving one’s day is to take the subway during a period of relative calm, rather than one of insanity. Accordingly, I was excited to use the MTA’s commuter traffic data to explore which stations and which times of day see the most riders. 
 
-####The Data
+###The Data
 The MTA keeps track of turnstile swipes at each of its stations, and usually bins the swipes into 4 or 3 hour intervals. I looked at all the entry swipes at all the turnstiles from November of 2014, when the MTA it updated its data storage scheme to its format, to September of 2015. 
 
 To work with the data I used Pandas data structures in Python. I wanted to hone my skills working with data frames and dictionaries, and this project allowed me to do that. 
 
-####Exploration
+###Exploration
 ![graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/month_sums.pdf "Monthly Traffic"
 
 At the monthly level, we see a significant number more people use the subway during the warm months than the colder ones.
