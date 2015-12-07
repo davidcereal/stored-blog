@@ -12,7 +12,7 @@ image:
 categories:
     - blog
 ---
-kAs any unfortunate New York City Metro Transit Authority rider can attest, one’s subway riding experience is directly dependent on how many other unfortunate riders are competing for walking space, standing room, polls, and —the holy grail—a seat.
+lAs any unfortunate New York City Metro Transit Authority rider can attest, one’s subway riding experience is directly dependent on how many other unfortunate riders are competing for walking space, standing room, polls, and —the holy grail—a seat.
 
 Navigating through a crowded subway station can be quite disorienting, with other commuters crossing in front of you in all directions, and it is not uncommon to be shouldered aside for taking a moment to read a sign. And that is to say nothing of the actual ride itself. Suffice to say, a crowded NYC subway ride is nasty, brutish, and if you’re lucky, short. 
 
@@ -59,7 +59,8 @@ If you’re interested in seeing the time breakdown of your favorite subway stat
 
 And what do the numbers for the top 20 most-used stations look like? Check it out for yourself below:
 
-![graph] (https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_stations.pdf) "Top 20 Stations"
+![Top 20 Stations]
+(https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_stations.pdf)
 
 With that, you now have some tools to avoid entering into a crowded subway station, and perhaps even get a seat on the subway! 
 
