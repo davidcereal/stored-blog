@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Exploring MTA Traffic Data"
 meta_teaser: "When and where to take the subway if you don't like feeling completely harried by the end of your commute"
 teaser: "When and where to take the subway if you don't like feeling completely harried by the end of your commute"
-header: no
+header: yes
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: homepage_typography.jpg
