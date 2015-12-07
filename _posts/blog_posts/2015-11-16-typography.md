@@ -32,13 +32,23 @@ This is pretty logical, as one would expect people to be more apt to adventure a
 
 I now submit to you a chart showing the total MTA entries per day:
 
+[graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_days.pdf "Daily Traffic"
+
 This graph should be somewhat intuitive. Weekdays are workdays, and this explains their almost 170% increase over the average weekend day.
 
 We can also see which hours of the day see the most traffic:
 
+[graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_hours.pdf "Hourly Traffic"
+
 4-8pm sees the most traffic, as that is when commuters are likely to be heading home after work. Accordingly, the next highest period of traffic is from 8am-12pm. 
 
 However, it was particularly interesting to note that this traffic to time of day pattern does not hold true for all stations. Lets use the 47-50th Street Rockefeller Plaza and 14th Street Union Square stations as examples:
+
+[graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/14_ST-UNION_SQ_station_schedule.pdf "14th Street Traffic"
+
+[graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/47-50_ST-ROCK_station_schedule.pdf "47-50th Street Traffic"
+
+
 In both examples, the afternoon rush hours still sees the most traffic. But at 14th street, 8pm-midnight sees almost 60% more traffic than during the morning rush hours. 
 
 47-50th Street sees the exact opposite relationship—the AM rush hours see more than 2.6X more traffic than the night hours of 10pm-midnight. 
@@ -48,6 +58,8 @@ This trend may be explainable by the fact that the 47th-50th street area is prim
 If you’re interested in seeing the time breakdown of your favorite subway station, feel free to check out the repo for this project on github. It includes time charts for the top 20 most used subway stations, and the code to examine all the stations for yourself. 
 
 And what do the numbers for the top 20 most-used stations look like? Check it out for yourself below:
+
+[graph]: https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_stations.pdf "Top 20 Stations"
 
 With that, you now have some tools to avoid entering into a crowded subway station, and perhaps even get a seat on the subway! 
 
