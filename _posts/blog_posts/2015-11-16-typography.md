@@ -60,7 +60,7 @@ If you’re interested in seeing the time breakdown of your favorite subway stat
 And what do the numbers for the top 20 most-used stations look like? Check it out for yourself below:
 
 ![Top 20 Stations]
-(https://github.com/dberger1989/dberger1989.github.io/blob/master/images/top_stations.png)
+(https://github.com/dberger1989/dberger1989.github.io/images/top_stations.png)
 
 With that, you now have some tools to avoid entering into a crowded subway station, and perhaps even get a seat on the subway! 
 
